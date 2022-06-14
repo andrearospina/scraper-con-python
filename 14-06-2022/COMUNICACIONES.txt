@@ -1,0 +1,11 @@
+COMUNICACIONES
+
+Paolo Veglio, country Director de Nokia Colombia, indicó que la empresa ha desplegado redes a 2.200 clientes en sectores como transporte y energía
+
+Mediante una exhibición organizada en Bogotá, 
+ presentó su portafolio dirigido a los operadores de telecomunicaciones y también presentó su portafolio de redes empresariales, que está dirigido principalmente a grandes empresas.
+Para los operadores de telecomunicaciones, Nokia ha traído a Bogotá su portafolio más reciente, dentro del cual destacan dos líneas de productos. El primero son las Redes Móviles 5G, diseñadas para alcanzar objetivos de sustentabilidad energética y baja en emisiones de CO2. Esta línea incluye Nokia AirScale, Cloud RAN, Edge Cloud, Slicing y transporte de microondas Wavence de alto ancho de banda.
+La segunda línea de soluciones es 5G-FWA (Acceso Fijo-Móvil) que permite a los operadores móviles ofrecer servicios de banda ultra ancha en el hogar, ofreciéndoles una nueva opción para monetizar sus inversiones en 5G y habilitándolos para competir directamente con los operadores fijos y para llevar la banda ultra ancha a aquellas colonias, barrios y poblaciones en donde no es factible llevar la conectividad por fibra óptica.
+Adicionalmente, Nokia ha buscado desarrollar el mercado colombiano de redes empresariales. Varios estudios de Nokia han demostrado que las Redes Privadas Inalámbricas de Grado Industrial son un eje fundamental de los proyectos de transformación digital.
+Nokia ha desplegado redes de misión crítica en 450 de sus más de 2.200 clientes empresariales lideres en los sectores de transporte, energía, manufactura, webscale y sector público. Esto ha ampliado su área de experiencia alrededor del mundo, en una amplia gama de industrias y ha sido reconocida por muchos analistas como el líder global en redes privadas inalámbricas de grado industrial.
+“Estamos listos para apoyar la transformación digital en los sectores de transporte, manufactura y energía. La digitalización de la industria es una gran habilitadora para enfrentar los retos actuales asociados a la mejora en la eficiencia y la seguridad en los procesos productivos, la reducción de costos y la progresiva descarbonización de los sectores industriales”, dijo Paolo Veglio, Country Director de Nokia Colombia.

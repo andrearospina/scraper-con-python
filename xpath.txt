@@ -1,0 +1,4 @@
+Links = //h2/a/@href
+Titulo = //h2/span/text()
+Descripcion = //div[@class = "lead"]/p/text()
+cuerpo = //div[@class="html-content"]/p[not(@class)]/text() 
